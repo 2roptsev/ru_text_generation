@@ -1,0 +1,9 @@
+matplotlib
+ipywidgets
+ipython
+numpy
+torch
+nltk
+subword_nmt
+transformers
+spacy==3.3.0
