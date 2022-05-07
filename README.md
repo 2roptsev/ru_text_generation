@@ -36,9 +36,9 @@ After installing requirements.txt launch python3 in repo directory:
 
 ## Train
 
-Train examples could be found in [prepare_data_and_train_experiments.ipynb][PlDb].
+Train examples could be found in [prepare_data_and_train_experiments.ipynb][notebook].
 
-To train on your data, prepare it using notebook, than run train.py.
+To train on your data, prepare it using notebook, than run [train.py][train].
 
 ```
 > python3 train.py --help
@@ -70,5 +70,5 @@ optional arguments:
 
 MIT
 
-   [ipynb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [train]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [notebook]: <https://github.com/2roptsev/ru_text_generation/tree/master/prepare_data_and_train_experiments.ipynb>
+   [train]: <https://github.com/2roptsev/ru_text_generation/tree/master/train.py>
