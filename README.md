@@ -10,7 +10,7 @@ Neural network for text generation trained on news domain (lenta.ru).
 
 ## Features
 
-- Allows to train text generation and try different tokens levels
+- Allows to train text generation and try different token levels
 - Different generators: argmax, distributional, beam search
 - Train or finetune on any text file
 
